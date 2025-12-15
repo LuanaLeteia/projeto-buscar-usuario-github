@@ -30,6 +30,14 @@ O objetivo principal é praticar consumo de API, manipulação do DOM, validaç�
 - Os repositórios são carregados em seguida;
 - Caso o usuário não exista, uma mensagem de erro é exibida.
 
+## 🧠 Aprendizados aplicados
+
+- Uso de fetch e Promises; 
+- Tratamento de erros;
+- Uso de async / await;
+- Validação de input com trim();
+- Manipulação dinâmica do DOM.
+
 ## 📷 Preview
 
 ![github-search](https://github.com/user-attachments/assets/2810c27e-c302-4868-b3a7-4767d834ed2e)
